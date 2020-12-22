@@ -1,0 +1,4 @@
+title: Test jekyll bootstrap
+sass:
+    sass_dir: css
+    style: compressed
