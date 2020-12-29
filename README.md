@@ -3,6 +3,7 @@ This repository contains (mainly*) the content of the website of the Peer-Produc
 
 For the design, it uses this template: https://github.com/PeerProducedResearch/jekyll-theme-labwebsite 
 
+* styles for the header, footer and default layout are in the template. However, styles of the content are currently in the content pages themselves.
 
 ## Adapting the website and theme locally
 Please download this repository as well as the theme repository and put them in the same parent folder. 
