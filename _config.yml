@@ -25,7 +25,8 @@ github_username:  PeerProducedResearch
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-labwebsite
+# theme: jekyll-theme-labwebsite
+remote-theme: PeerProducedResearch/jekyll-theme-labwebsite
 plugins:
   - jekyll-feed
 
