@@ -26,10 +26,12 @@ github_username:  PeerProducedResearch
 # Build settings
 markdown: kramdown
 # theme: jekyll-theme-labwebsite
-remote_theme: PeerProducedResearch/jekyll-theme-labwebsite
+
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+
+ remote_theme: PeerProducedResearch/jekyll-theme-labwebsite 
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
