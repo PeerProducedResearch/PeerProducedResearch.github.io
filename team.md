@@ -43,32 +43,81 @@ order: 1
       </p>
     </div>
   </div>
+
+
+  <div class="row">
+    <div class="col-sm-3">
+      <!--![A portrait of Bastian](assets/images/bastian.jpg)-->
+      <img src="/assets/images/mad.jpg" class="rounded-circle" style="max-width:200px;width:100%;" alt="A portrait of Enric" />
+      <p>
+        <a href='https://twitter.com/madprime'>Twitter</a>
+        <a href='http://www.madpriceball.net/'>Blog</a>
+        <a href='https://www.github.com/madprime'>GitHub</a>
+      </p>
+    </div>
+    <div class="col-sm-9">
+      <h2>Mad Ball</h2>
+      <p>
+        Mad is an affiliate faculty member at CRI. They have background in both genetics & citizen science. As the Director of Research for the Harvard Personal Genome Project they led large-scale, collaborative open data efforts. As the co-founder and Executive Director of the Open Humans Foundation they focus on enabling people to access, use, and share their health and personal data to advance individual understanding, collective empowerment, and research. Their work also extends to related areas in N-of-1 and participant-led research, open science, and advocacy.
+      </p>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-sm-3">
+      <!--![A portrait of Bastian](assets/images/bastian.jpg)-->
+      <img src="/assets/images/katharina.png" class="rounded-circle" style="max-width:200px;width:100%;" alt="A portrait of Katharina" />
+      <p>
+        <a href='https://twitter.com/k_kloppenborg'>Twitter</a>
+        <a href='https://www.github.com/katoss'>GitHub</a>
+        <a href='https://www.linkedin.com/in/katharina-kloppenborg-6987a3193'>LinkedIn</a>
+      </p>
+    </div>
+    <div class="col-sm-9">
+      <h2>Katharina Kloppenborg</h2>
+      <p>
+        Katharina is a PhD student at the Peer-Produced Research Lab in the Frontières de l’Innovation en Recherche et Éducation (FIRE) doctoral program. She holds a M.Sc. in Applied Cognitive and Media Science from the University of Duisburg-Essen and has worked as a research assistant in interdisciplinary health-monitoring research and language technology, and as a working student in UX consulting for the public sector. She is currently trying to apply her interdisciplinary background in human-computer-interaction, computer science and psychology and a passion for illustration and design to facilitate a peer-production approach in citizen science by the use of participatory, user-centered design methods, on the example of Open Humans.
+      </p>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-sm-3">
+      <!--![A portrait of Bastian](assets/images/bastian.jpg)-->
+      <img src="/assets/images/enric.jpg" class="rounded-circle" style="max-width:200px;width:100%;" alt="A portrait of Enric" />
+      <p>
+
+      </p>
+    </div>
+    <div class="col-sm-9">
+      <h2>Morgane Opoix</h2>
+      <p>
+        Text goes here
+      </p>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-sm-3">
+      <!--![A portrait of Bastian](assets/images/bastian.jpg)-->
+      <img src="/assets/images/clara.jpg" class="rounded-circle" style="max-width:200px;width:100%" alt="A portrait of Clara" />
+      <p>
+      </p>
+    </div>
+    <div class="col-sm-9">
+      <h2>Clara Lehenaff</h2>
+      <p>
+      Clara is a bioinformatics M2 student at CRI. She started working in the videogame industry in around 2008. As a lead game designer, creative director, writer and programmer, she directed several projects before switching to medical science in 2018. A transactivist, she joined the Peer-Produced Research Lab in 2020 as part of the <i>Transbiome</i> project she initiated. Even though she doesn’t work in the videogame industry anymore, she is still very enthusiastic about systems and never stops to find bridges between biology and videogames.
+
+      </p>
+    </div>
+  </div>
 </div>
 
-## Mad
-
-
-## Katharina
-<!--![A portrait of Katharina](assets/images/katharina.png)-->
-<img src="/assets/images/katharina.png" class="rounded-circle" style="max-width:200px;" alt="A portrait of Katharina" />
-
-Katharina is a PhD student at the Peer-Produced Research Lab in the Frontières de l’Innovation en Recherche et Éducation (FIRE) doctoral program. She holds a M.Sc. in Applied Cognitive and Media Science from the University of Duisburg-Essen and has worked as a research assistant in interdisciplinary health-monitoring research and language technology, and as a working student in UX consulting for the public sector. She is currently trying to apply her interdisciplinary background in human-computer-interaction, computer science and psychology and a passion for illustration and design to facilitate a peer-production approach in citizen science by the use of participatory, user-centered design methods, on the example of Open Humans.
-
-[Twitter](https://twitter.com/k_kloppenborg)
-[GitHub](https://github.com/katoss)
-[LinkedIn](https://www.linkedin.com/in/katharina-kloppenborg-6987a3193)
-
-## Morgane
-
-
-## Clara
-<!--![A portrait of Clara](assets/images/clara.jpg)-->
-<img src="/assets/images/clara.jpg" class="rounded-circle" style="max-width:200px;" alt="A portrait of Clara" />
-
-Clara is a bioinformatics M2 student. She started working in the videogames industry around 2008 ; lead game designer, creative director, writer and programmer, she directed several projects before switching to medical science in 2018. Transactivist, she joined the Peer-Produced Research Lab in 2020 as part of the Transbiome project she initiated. Even though she doesn’t work in the videogames industry anymore, she is still very enthusiastic about systems and never stops to find bridges between biology and videogames.
-
 ## Alumni:
-- Basile
-- Illona
-- Melvin
-- Clemence
+In addition to our current lab members we are grateful for a great number of students & interns that have worked with us over time on a variety of projects:
+
+- Basile Morane
+- Ilona Bussod
+- Melvin Fribourg
+- Clémence Potel
