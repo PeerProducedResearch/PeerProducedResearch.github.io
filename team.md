@@ -51,8 +51,8 @@ order: 1
       <img src="/assets/images/mad.jpg" class="rounded-circle" style="max-width:200px;width:100%;" alt="A portrait of Enric" />
       <p>
         <a href='https://twitter.com/madprime'>Twitter</a>
-        <a href='http://www.madpriceball.net/'>Blog</a>
         <a href='https://www.github.com/madprime'>GitHub</a>
+        <a href='http://www.madpriceball.net/'>Blog</a>
       </p>
     </div>
     <div class="col-sm-9">
