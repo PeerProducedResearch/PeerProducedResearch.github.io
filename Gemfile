@@ -10,7 +10,8 @@ source "https://rubygems.org"
 # Happy Jekylling!
 # gem "jekyll", "~> 3.9.0"
 
-# This is the default theme for new Jekyll sites. You may change this to anything you like.
+# Path for local testing of the theme. Copy the theme in the same parent folder as your website, and in _config.yml comment out the line specifying
+# the "remote_theme" and uncomment the line "theme"
 gem "jekyll-theme-labwebsite", :path => "../jekyll-theme-labwebsite/"
 
 # Add remote theme plugin
