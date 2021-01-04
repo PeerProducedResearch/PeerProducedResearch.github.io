@@ -1,8 +1,11 @@
 - title: Contact
+  type: email
   url: "bastian.greshake-tzovaras@cri-paris.org"
 
 - title: GitHub 
+  type: website
   url: https://github.com/PeerProducedResearch
 
 - title: CRI Projects
+  type: website
   url: https://projects.cri-paris.org/projects/K92ifSPw/summary
