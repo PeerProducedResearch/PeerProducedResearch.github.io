@@ -3,6 +3,10 @@
     url: /assets/images/bastian.jpg
     alt: A portrait of Bastian
   links:
+    -
+      title: Email
+      type: email
+      url: bastian.greshake-tzovaras@cri-paris.org
     - 
       title: Twitter
       type: web
@@ -22,6 +26,10 @@
     url: /assets/images/enric.jpg
     alt: A portrait of Enric
   links:
+    -
+      title: Email
+      type: email
+      url: enric.senabre@cri-paris.org
     - 
       title: Twitter
       type: web
@@ -41,6 +49,10 @@
     url: /assets/images/mad.jpg
     alt: A portrait of Mad
   links:
+    -
+      title: Email
+      type: email
+      url: mad@openhumans.org
     - 
       title: Twitter
       type: web
@@ -60,6 +72,10 @@
     url: /assets/images/katharina.png
     alt: A portrait of Katharina
   links:
+    -
+      title: Email
+      type: email
+      url: katharina.kloppenborg@cri-paris.org
     - 
       title: Twitter
       type: web
@@ -75,13 +91,23 @@
   description: Katharina is a PhD student at the Peer-Produced Research Lab in the Frontières de l’Innovation en Recherche et Éducation (FIRE) doctoral program. She holds a M.Sc. in Applied Cognitive and Media Science from the University of Duisburg-Essen and has worked as a research assistant in interdisciplinary health-monitoring research and language technology, and as a working student in UX consulting for the public sector. She is currently trying to apply her interdisciplinary background in human-computer-interaction, computer science and psychology and a passion for illustration and design to facilitate a peer-production approach in citizen science by the use of participatory, user-centered design methods, on the example of Open Humans.
   
 - name: Morgane Opoix
-  photo: none
+  photo:
+    url: /assets/images/morgane.png
+    alt: A portrait of Morgane
   links:
-  description: Text goes here
+    -
+      title: Email
+      type: email
+      url: morgane.opoix@cri-paris.org
+  description: Morgane is a CRI undergraduate student in the “Licence Frontière du Vivant” bachelor program. She is currently helping to apply qualitative methods to personal science and citizen science in our Peer-Produced Research Lab. She worked in 2020 with Prof. Muki Haklay on citizen science in the context of the “Eu-CitizenScience” project and separately in 2019 on the ecological, social and urban innovation project <a href="https://www.thebiopolis.com/purparis">“PurParis”</a>. She is very enthusiastic about the idea of democratizing science with interests in the links that can be built between science and society; But also very concerned about the environment and the issues this raises, her life mantra is engaging herself fully in the ecological and social transition of society. 
 
 - name: Clara Lehenaff
   photo:
     url: /assets/images/clara.jpg
     alt: A portrait of Clara
   links:
+    -
+      title: Email
+      type: email
+      url: clara.lehenaff@cri-paris.org
   description: Clara is a bioinformatics M2 student at CRI. She started working in the videogame industry in around 2008. As a lead game designer, creative director, writer and programmer, she directed several projects before switching to medical science in 2018. A transactivist, she joined the Peer-Produced Research Lab in 2020 as part of the <i>Transbiome</i> project she initiated. Even though she doesn’t work in the videogame industry anymore, she is still very enthusiastic about systems and never stops to find bridges between biology and videogames.

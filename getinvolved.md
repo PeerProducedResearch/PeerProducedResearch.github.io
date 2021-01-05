@@ -23,4 +23,4 @@ Currently we are running a number of studies for which we are looking for additi
 We are always looking for and are happy to host interns to host in our lab. Given the broad scope of our lab there are options for students from a variety of academic backgrounds, including the social sciences, life sciences and digital sciences. Depending on your interests interns can either join one of our already established and ongoing projects or develop their own research projects together with us. 
 
 ## Other ways to support or work with us
-You have any ideas for how to get involved that are not listed here yet? Get in touch and let us know! 
+You have any ideas for how to get involved that are not listed here yet? <a href="/contact">Get in touch</a> and let us know! 

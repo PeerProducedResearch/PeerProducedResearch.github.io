@@ -1,6 +1,6 @@
 - title: Contact
-  type: email
-  url: "bastian.greshake-tzovaras@cri-paris.org"
+  type: web
+  url: "/contact"
 
 - title: GitHub 
   type: web
