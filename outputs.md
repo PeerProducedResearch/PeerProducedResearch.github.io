@@ -10,8 +10,8 @@ order: 3
 ## Recent Publications
 
 ### 2021
-- *[Participation and Co-creation in Citizen Science.](https://link.springer.com/chapter/10.1007/978-3-030-58278-4_11)* **E Senabre**, J Perelló, F Becker, I Bonhoure, M Legris, A Cigarini. *In: [The Science of Citizen Science](https://link.springer.com/book/10.1007/978-3-030-58278-4), Springer.*
-- *[Citizen Science, Health, and Environmental Justice.](https://link.springer.com/chapter/10.1007/978-3-030-58278-4_12)* L Ceccaroni, SM Woods, J Sprinks, S Wilson, EM Faustman, A Bonn, **B Greshake Tzovaras**, L Subirats, AH Kimura. *In: [The Science of Citizen Science](https://link.springer.com/book/10.1007/978-3-030-58278-4), Springer.*
+- *[Participation and Co-creation in Citizen Science.](https://link.springer.com/chapter/10.1007/978-3-030-58278-4_11)* **E Senabre**, J Perelló, F Becker, I Bonhoure, M Legris, A Cigarini. *In: [The Science of Citizen Science](https://link.springer.com/book/10.1007/978-3-030-58278-4), Springer*
+- *[Citizen Science, Health, and Environmental Justice.](https://link.springer.com/chapter/10.1007/978-3-030-58278-4_12)* L Ceccaroni, SM Woods, J Sprinks, S Wilson, EM Faustman, A Bonn, **B Greshake Tzovaras**, L Subirats, AH Kimura. *In: [The Science of Citizen Science](https://link.springer.com/book/10.1007/978-3-030-58278-4), Springer*
 
 ### 2020
 - *[Contours of citizen science: a vignette study](https://osf.io/preprints/socarxiv/6u2ky/).* M Haklay, D Fraisl, **B Greshake Tzovaras**, S Hecker, M Gold, G Hager, L Ceccaroni, B Kieslinger, U Wehn, S Woods, C Nold, B Balazs, M Mazzonetto, S Rüfenacht, L Shanley, K Wagenknecht, A Motion, A Sforzi, D Riemenschneider, D Dörler, F Heigl, T Schaefer, A Lindner, M Weißpflug, M Mačiuliene, K Vohland *SocArXiv preprint*
