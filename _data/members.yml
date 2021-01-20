@@ -7,19 +7,19 @@
       title: Email
       type: email
       url: bastian.greshake-tzovaras@cri-paris.org
-    - 
+    -
       title: Twitter
       type: web
       url: https://twitter.com/gedankenstuecke/
-    - 
+    -
       title: GitHub
       type: web
       url: https://github.com/gedankenstuecke
-    - 
+    -
       title: Google Scholar
       type: web
       url: https://scholar.google.com/citations?user=xmtDOnQAAAAJ&hl=en
-  description: Bastian is the team leader of the Peer-Produced Research Lab. He started his career as a biologist and bioinformatician before his interests in open science led him to do research on co-creation in community/citizen science. In 2011, he co-founded openSNP – an open, crowdsourced repository for personal genomics data which has become one of the largest of its kind. Since 2017 he is also the Director of Research for the Open Humans Foundation, which runs a web platform to empower individuals and communities to access and understand their personal data and help them do and share things with it. Bastian is particularly interested in how peer-production ideals can be implemented to support scaling up Quantified Self/Personal Science projects to take them from the n=1 to collective endeavours.
+  description: Bastian is a long-term fellow at the CRI and started the Peer-Produced Research Lab. He started his career as a biologist and bioinformatician before his interests in open science led him to do research on co-creation in community/citizen science. In 2011, he co-founded openSNP – an open, crowdsourced repository for personal genomics data which has become one of the largest of its kind. Since 2017 he is also the Director of Research for the Open Humans Foundation, which runs a web platform to empower individuals and communities to access and understand their personal data and help them do and share things with it. Bastian is particularly interested in how peer-production ideals can be implemented to support scaling up Quantified Self/Personal Science projects to take them from the n=1 to collective endeavours.
 
 - name: Enric Senabre
   photo:
@@ -30,15 +30,15 @@
       title: Email
       type: email
       url: enric.senabre@cri-paris.org
-    - 
+    -
       title: Twitter
       type: web
       url: https://twitter.com/esenabre
-    - 
+    -
       title: Blog
       type: web
       url: http://www.backlogs.net/
-    - 
+    -
       title: Google Scholar
       type: web
       url: https://scholar.google.com/citations?user=8x9QLzUAAAAJ&hl=en
@@ -53,15 +53,15 @@
       title: Email
       type: email
       url: mad@openhumans.org
-    - 
+    -
       title: Twitter
       type: web
       url: https://twitter.com/madprime
-    - 
+    -
       title: GitHub
       type: web
       url: https://twitter.com/madprime
-    - 
+    -
       title: Blog
       type: web
       url: http://www.madpriceball.net/
@@ -76,20 +76,20 @@
       title: Email
       type: email
       url: katharina.kloppenborg@cri-paris.org
-    - 
+    -
       title: Twitter
       type: web
       url: https://twitter.com/k_kloppenborg
-    - 
+    -
       title: GitHub
       type: web
       url: https://www.github.com/katoss
-    - 
+    -
       title: LinkedIn
       type: web
       url: https://www.linkedin.com/in/katharina-kloppenborg-6987a3193
   description: Katharina is a PhD student at the Peer-Produced Research Lab in the Frontières de l’Innovation en Recherche et Éducation (FIRE) doctoral program. She holds a M.Sc. in Applied Cognitive and Media Science from the University of Duisburg-Essen and has worked as a research assistant in interdisciplinary health-monitoring research and language technology, and as a working student in UX consulting for the public sector. She is currently trying to apply her interdisciplinary background in human-computer-interaction, computer science and psychology and a passion for illustration and design to facilitate a peer-production approach in citizen science by the use of participatory, user-centered design methods, on the example of Open Humans.
-  
+
 - name: Morgane Opoix
   photo:
     url: /assets/images/morgane.png
@@ -99,7 +99,7 @@
       title: Email
       type: email
       url: morgane.opoix@cri-paris.org
-  description: Morgane is a CRI undergraduate student in the “Licence Frontière du Vivant” bachelor program. She is currently helping to apply qualitative methods to personal science and citizen science in our Peer-Produced Research Lab. She worked in 2020 with Prof. Muki Haklay on citizen science in the context of the “Eu-CitizenScience” project and separately in 2019 on the ecological, social and urban innovation project <a href="https://www.thebiopolis.com/purparis">“PurParis”</a>. She is very enthusiastic about the idea of democratizing science with interests in the links that can be built between science and society; But also very concerned about the environment and the issues this raises, her life mantra is engaging herself fully in the ecological and social transition of society. 
+  description: Morgane is a CRI undergraduate student in the “Licence Frontière du Vivant” bachelor program. She is currently helping to apply qualitative methods to personal science and citizen science in our Peer-Produced Research Lab. She worked in 2020 with Prof. Muki Haklay on citizen science in the context of the “Eu-CitizenScience” project and separately in 2019 on the ecological, social and urban innovation project <a href="https://www.thebiopolis.com/purparis">“PurParis”</a>. She is very enthusiastic about the idea of democratizing science with interests in the links that can be built between science and society; But also very concerned about the environment and the issues this raises, her life mantra is engaging herself fully in the ecological and social transition of society.
 
 - name: Clara Lehenaff
   photo:
