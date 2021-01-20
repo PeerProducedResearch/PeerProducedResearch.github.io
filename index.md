@@ -50,7 +50,7 @@ order: 0
       True to the name of our lab we understand ourselves as a <b>community of peers</b> that support each other and are <b>always happy to explore new projects and collaborations</b>, regardless of if you are an academic researcher, a personal science practitioner or a community thinking about starting a participant-led research project.
     </p>
     <p>
-      We are also helping to host <b>regular meetings to help people who are interested in doing self-research</b>. Last but not least we are of course always happy to welcome student interns in our lab as well.
+      We are also helping to host <b>regular meetings to help people who are interested in doing self-research</b>. Last but not least, we are of course always happy to welcome student interns in our lab as well.
     </p>
     <p>
       Learn more about <a href='/getinvolved'>how to get involved</a>.
