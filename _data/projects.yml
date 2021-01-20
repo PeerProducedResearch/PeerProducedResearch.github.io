@@ -33,13 +33,18 @@
     url: assets/images/icontrans.png
     alt: The icon of the Transbiome project - A magnifying glass in front of the transgender flag
   description: The Transbiome study is a community-driven project aiming at characterizing the microbiota of trans women’s neo-vaginas. Vaginal infections are a common occurrence. Bacterial vaginosis has a prevalence of 29.2% and three out of four cis-women will experience at least one vaginal yeast infection in their life. But while these conditions are well understood for cis-women, they are poorly understood for trans women, to a point that diagnosis, testing and treatment are often unavailable or unsuccessful. This is a direct result of a lack of basic knowledge about the microbial community that colonizes the neo-vagina after its creation. To address this issue, we aim to perform a pilot study that helps to map the microbial diversity found in trans-women’s neovaginas, providing urgently needed basic knowledge about it which can inform future research which can help trans women to get adequate gynecological health care.
+  links:
+      -
+        title: Study website
+        type: web
+        url: https://www.transbiome.org
 
 - name: Quantified Flu
   order: 4
   image:
     url: assets/images/quantifiedfluicon.png
     alt: The icon of the quantified flu project - The letters Q and F in front of a blue background
-  description: Quantified Flu is a community-driven, co-created project that was started by the <a href="https://www.openhumans.org">Open Humans</a> community at the start of the COVID-19 pandemic and is supported by the lab. The goal of the project is to allow individuals to use their physiological data collected from wearables (like heart rate, body temperature and respiratory) and give them a way to visualize it in the context of their symptom reports, allowing them to interpret and reason about it. As such it is a case study of a new, domain-appropriate cultural and technological kit to support personal science that serves a community. 
+  description: Quantified Flu is a community-driven, co-created project that was started by the <a href="https://www.openhumans.org">Open Humans</a> community at the start of the COVID-19 pandemic and is supported by the lab. The goal of the project is to allow individuals to use their physiological data collected from wearables (like heart rate, body temperature and respiratory) and give them a way to visualize it in the context of their symptom reports, allowing them to interpret and reason about it. As such it is a case study of a new, domain-appropriate cultural and technological kit to support personal science that serves a community.
   links:
     -
       title: Website
