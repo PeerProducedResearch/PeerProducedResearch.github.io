@@ -39,7 +39,7 @@
   image:
     url: assets/images/quantifiedfluicon.png
     alt: The icon of the quantified flu project - The letters Q and F in front of a blue background
-  description: Quantified Flu is a community-driven, co-created project that started out of the Open Humans community calls at the start of the COVID-19 pandemic. The goal of the project is to allow individuals to use their physiological data collected from wearables (like heart rate, body temperature and respiratory) and give them a way to visualize it in the context of their symptom reports, allowing them to interpret and reason about it. As such it is a case study of a new, domain-appropriate cultural and technological kit to support personal science that serves a community.
+  description: Quantified Flu is a community-driven, co-created project that was started by the <a href='https://www.openhumans.org>Open Humans</a> community at the start of the COVID-19 pandemic and is supported by the lab. The goal of the project is to allow individuals to use their physiological data collected from wearables (like heart rate, body temperature and respiratory) and give them a way to visualize it in the context of their symptom reports, allowing them to interpret and reason about it. As such it is a case study of a new, domain-appropriate cultural and technological kit to support personal science that serves a community. 
   links:
     -
       title: Website
