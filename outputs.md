@@ -37,7 +37,7 @@ We are in the process of creating additional non-software materials for workshop
 ## Teaching
 Our team is involved in teaching a variety of courses at CRI across the different study programs and levels. Among others those included:
 
-- “Principles of Open Science”, M1 course
-- “Student COllaborative REsearch (SCORE)”, L2 course
-- “Critical Analysis of a Research Article”, M2 course
-- “Creating Interdisciplinary Research Project” M2/PhD course
+- _Principles of Open Science_  (M1 course)
+- _Student COllaborative REsearch_ (SCORE) (L2 course)
+- _Critical Analysis of a Research Article_ (M2 course)
+- _Creating Interdisciplinary Research Project_ (M2/PhD course)
