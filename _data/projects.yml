@@ -51,7 +51,7 @@
       type: web
       url: https://www.quantifiedflu.org
 
-- name: Using recommendation systems to enhance collective intelligence for participant-led research?
+- name: Recommendation systems to enhance collective intelligence in participant-led research
   order: 5
   image:
     url: assets/images/collective_intelligence.png
