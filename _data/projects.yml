@@ -51,8 +51,21 @@
       type: web
       url: https://www.quantifiedflu.org
 
-- name: COVID Twitter
+- name: Using recommendation systems to enhance collective intelligence for participant-led research?
   order: 5
+  image:
+    url: assets/images/collective_intelligence.png
+    alt: Collective Intelligence symbol
+  description: In collaboration with the open research platforms <em>Just One Giant Lab</em> and <em>Open Humans</em>, we are exploring how matchmaking algorithms enable participants to find others in their community with the skills and interests to work together on shared research ideas - exploring, analysing and donating their data to answer important questions.
+  links:
+    -
+      title: CRI Project page
+      type: web
+      url: https://projects.cri-paris.org/projects/yeG1KtB5/summary
+
+
+- name: COVID Twitter
+  order: 6
   image:
     url: assets/images/covid-twitter.png
     alt: A graph showing the growth of COVID cases in emergencies and number of tweets mentioning COVID
@@ -64,7 +77,7 @@
       url: https://covid-twitter.thecommons.science/
 
 - name: Covid Open Survey
-  order: 6
+  order: 7
   image:
     url: assets/images/covidopensurvey.png
     alt: The icon of the covid open survey project - two intertwined white rings in front of a black background
