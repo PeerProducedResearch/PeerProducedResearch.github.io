@@ -21,7 +21,7 @@
       url: https://scholar.google.com/citations?user=xmtDOnQAAAAJ&hl=en
   description: Bastian is a long-term fellow at the CRI and started the Peer-Produced Research Lab. He started his career as a biologist and bioinformatician before his interests in open science led him to do research on co-creation in community/citizen science. In 2011, he co-founded openSNP – an open, crowdsourced repository for personal genomics data which has become one of the largest of its kind. Since 2017 he is also the Director of Research for the Open Humans Foundation, which runs a web platform to empower individuals and communities to access and understand their personal data and help them do and share things with it. Bastian is particularly interested in how peer-production ideals can be implemented to support scaling up Quantified Self/Personal Science projects to take them from the n=1 to collective endeavours.
 
-- name: Enric Senabre
+- name: Enric Senabre Hidalgo
   photo:
     url: /assets/images/enric.jpg
     alt: A portrait of Enric
@@ -29,7 +29,7 @@
     -
       title: Email
       type: email
-      url: enric.senabre@cri-paris.org
+      url: enric.senabrehidalgo@cri-paris.org
     -
       title: Twitter
       type: web
