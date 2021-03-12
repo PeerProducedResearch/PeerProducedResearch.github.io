@@ -10,6 +10,7 @@ order: 3
 ## Recent Publications
 
 ### 2021
+- *[Quantified Flu: an individual-centered approach to gaining sickness-related insights from wearable data.](https://medrxiv.org/cgi/content/short/2021.03.10.21252242v1)* **B Greshake Tzovaras**, **E Senabre**, K Alexiou, L Baldy, **B Morane**, **I Bussod**, **M Fribourg**, K Wac, G Wolf, **M Ball** *medRxiv preprint*
 - *[Participation and Co-creation in Citizen Science.](https://link.springer.com/chapter/10.1007/978-3-030-58278-4_11)* **E Senabre**, J Perelló, F Becker, I Bonhoure, M Legris, A Cigarini. *In: [The Science of Citizen Science](https://link.springer.com/book/10.1007/978-3-030-58278-4), Springer*
 - *[Citizen Science, Health, and Environmental Justice.](https://link.springer.com/chapter/10.1007/978-3-030-58278-4_12)* L Ceccaroni, SM Woods, J Sprinks, S Wilson, EM Faustman, A Bonn, **B Greshake Tzovaras**, L Subirats, AH Kimura. *In: [The Science of Citizen Science](https://link.springer.com/book/10.1007/978-3-030-58278-4), Springer*
 
