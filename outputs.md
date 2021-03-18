@@ -10,6 +10,7 @@ order: 3
 ## Recent Publications
 
 ### 2021
+- *[Re-analysis of genetic risks for Chronic Fatigue Syndrome from 23andMe data finds few remain](https://www.frontiersin.org/articles/10.3389/fped.2021.590040/full).* FL Bedford, **B Greshake Tzovaras** *Frontiers in Pediatrics*
 - *[Quantified Flu: an individual-centered approach to gaining sickness-related insights from wearable data.](https://medrxiv.org/cgi/content/short/2021.03.10.21252242v1)* **B Greshake Tzovaras**, **E Senabre Hidalgo**, K Alexiou, L Baldy, **B Morane**, **I Bussod**, **M Fribourg**, K Wac, G Wolf, **M Ball** *medRxiv preprint*
 - *[Participation and Co-creation in Citizen Science.](https://link.springer.com/chapter/10.1007/978-3-030-58278-4_11)* **E Senabre Hidalgo**, J Perelló, F Becker, I Bonhoure, M Legris, A Cigarini. *In: [The Science of Citizen Science](https://link.springer.com/book/10.1007/978-3-030-58278-4), Springer*
 - *[Citizen Science, Health, and Environmental Justice.](https://link.springer.com/chapter/10.1007/978-3-030-58278-4_12)* L Ceccaroni, SM Woods, J Sprinks, S Wilson, EM Faustman, A Bonn, **B Greshake Tzovaras**, L Subirats, AH Kimura. *In: [The Science of Citizen Science](https://link.springer.com/book/10.1007/978-3-030-58278-4), Springer*
@@ -20,7 +21,6 @@ order: 3
 - *[What Is in Umbilicaria pustulata? A Metagenomic Approach to Reconstruct the Holo-Genome of a Lichen](https://academic.oup.com/gbe/article/12/4/309/5803651).* **B Greshake Tzovaras**, FHID Segers, A Bicker, F Dal Grande, J Otte, SY Anvar, T Hankeln, I Schmitt, I Ebersberger *Genome Biology and Evolution*
 - *[Emerging health data platforms: From individual control to collective data governance](https://www.cambridge.org/core/journals/data-and-policy/article/emerging-health-data-platforms-from-individual-control-to-collective-data-governance/C2FABA49744B674D157DC5E09E15DDCD).* T Kariotis, **M Price Ball**, **B Greshake Tzovaras**, S Dennis, T Sahama, C Johnston, H Almond, A Borda *Data & Policy*
 - *[Phenotype prediction from genome-wide genotyping data: a crowdsourcing experiment](https://www.biorxiv.org/content/10.1101/2020.08.25.265900v1.abstract).* O Naret, D Baranger, **B Greshake Tzovaras**, SP Mohanty, M Salathe, J Fellay *BioRxiv preprint*
-- *[Re-analysis of genetic risks for Chronic Fatigue Syndrome from 23andMe data finds few remain](https://www.medrxiv.org/content/10.1101/2020.10.27.20220939v2).* FL Bedford, **B Greshake Tzovaras** *medRxiv preprint*
 
 ### 2019
 - *[Open Humans: A platform for participant-centered research and personal data exploration](https://academic.oup.com/gigascience/article/8/6/giz076/5523201).* **B Greshake Tzovaras**, M Angrist, K Arvai, M Dulaney, V Estrada-Galiñanes, B Gunderson, T Head, D Lewis, O Nov, O Shaer, A Tzovara, J Bobe, **M Price Ball** *GigaScience*
