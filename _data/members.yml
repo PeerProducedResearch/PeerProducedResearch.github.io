@@ -111,3 +111,14 @@
       type: email
       url: clara.lehenaff@cri-paris.org
   description: Clara is a bioinformatics M2 student at CRI. She started working in the videogame industry in around 2008. As a lead game designer, creative director, writer and programmer, she directed several projects before switching to medical science in 2018. A transactivist, she joined the Peer-Produced Research Lab in 2020 as part of the <i>Transbiome</i> project she initiated. Even though she doesn’t work in the videogame industry anymore, she is still very enthusiastic about systems and never stops to find bridges between biology and videogames.
+
+- name: Sowmya Rajan
+  photo:
+    url: /assets/images/sowmya.jpg
+    alt: A portrait of Sowmya
+  links:
+    -
+      title: Email
+      type: email
+      url: sowmya.rajan@cri-paris.org
+  description: Sowmya is a second year Digital Sciences Master Student at the CRI. She is working as an intern for the AutSPACEs project on the development part where she helps in implementation of the digital prototype. Her favorite hobbies are reading books and going for long hikes.
