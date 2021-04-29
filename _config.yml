@@ -30,7 +30,7 @@ remote_theme: PeerProducedResearch/jekyll-theme-labwebsite
 
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme 
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -45,3 +45,7 @@ plugins:
 #   - vendor/ruby/
 
 github: [metadata]
+
+gcal_API_key: AIzaSyBvcGwh1_RVziGdpxlmz5FsuarnjJSCbxI
+
+gcal_URL: c_vuerlerin8iffjavc1tlvq09mg@group.calendar.google.com
