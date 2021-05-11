@@ -90,17 +90,6 @@
       url: https://www.linkedin.com/in/katharina-kloppenborg-6987a3193
   description: Katharina is a PhD student at the Peer-Produced Research Lab in the Frontières de l’Innovation en Recherche et Éducation (FIRE) doctoral program. She holds a M.Sc. in Applied Cognitive and Media Science from the University of Duisburg-Essen and has worked as a research assistant in interdisciplinary health-monitoring research and language technology, and as a working student in UX consulting for the public sector. She is currently trying to apply her interdisciplinary background in human-computer-interaction, computer science and psychology and a passion for illustration and design to facilitate a peer-production approach in citizen science by the use of participatory, user-centered design methods, on the example of Open Humans.
 
-- name: Morgane Opoix
-  photo:
-    url: /assets/images/morgane.png
-    alt: A portrait of Morgane
-  links:
-    -
-      title: Email
-      type: email
-      url: morgane.opoix@cri-paris.org
-  description: Morgane is a CRI undergraduate student in the “Licence Frontière du Vivant” bachelor program. She is currently helping to apply qualitative methods to personal science and citizen science in our Peer-Produced Research Lab. She worked in 2020 with Prof. Muki Haklay on citizen science in the context of the “Eu-CitizenScience” project and separately in 2019 on the ecological, social and urban innovation project <a href="https://www.thebiopolis.com/purparis">“PurParis”</a>. She is very enthusiastic about the idea of democratizing science with interests in the links that can be built between science and society; But also very concerned about the environment and the issues this raises, her life mantra is engaging herself fully in the ecological and social transition of society.
-
 - name: Clara Lehenaff
   photo:
     url: /assets/images/clara.jpg
@@ -112,6 +101,18 @@
       url: clara.lehenaff@cri-paris.org
   description: Clara is a bioinformatics M2 student at CRI. She started working in the videogame industry in around 2008. As a lead game designer, creative director, writer and programmer, she directed several projects before switching to medical science in 2018. A transactivist, she joined the Peer-Produced Research Lab in 2020 as part of the <i>Transbiome</i> project she initiated. Even though she doesn’t work in the videogame industry anymore, she is still very enthusiastic about systems and never stops to find bridges between biology and videogames.
 
+- name: Kaoutar Lanjri
+  photo:
+    url: /assets/images/kaoutar.jpg
+    alt: A portrait of Kaoutar
+  links:
+    -
+      title: Email
+      type: email
+      url: kaoutar.lanjri@cri-paris.org
+  description: Kaoutar is a M1 Digital Sciences student at CRI. She holds a M.Sc. in Digital Business and Big Data. She worked on digital UX/UI, system architectural design projects in the Insurance Industry, and Cybersecurity in the Health Care system.  She is currently an Intern in our Research Lab for the Quantified-Self-Forums project to conduct Data Analysis and Natural Language Processing (NLP) of the community’ interactions to provide transparent analysis of the human behaviour in communication and their patterns of networking to improve occurring and future projects in community and personal science. Seeing her diverse pathway, in future she strives to participate in AI + neuroscience projects.
+
+
 - name: Sowmya Rajan
   photo:
     url: /assets/images/sowmya.jpg
@@ -122,3 +123,14 @@
       type: email
       url: sowmya.rajan@cri-paris.org
   description: Sowmya is a second year Digital Sciences Master Student at the CRI. She is working as an intern for the AutSPACEs project on the development part where she helps in implementation of the digital prototype. Her favorite hobbies are reading books and going for long hikes.
+
+- name: Morgane Opoix
+  photo:
+    url: /assets/images/morgane.png
+    alt: A portrait of Morgane
+  links:
+    -
+      title: Email
+      type: email
+      url: morgane.opoix@cri-paris.org
+  description: Morgane is a CRI undergraduate student in the “Licence Frontière du Vivant” bachelor program. She is currently helping to apply qualitative methods to personal science and citizen science in our Peer-Produced Research Lab. She worked in 2020 with Prof. Muki Haklay on citizen science in the context of the “Eu-CitizenScience” project and separately in 2019 on the ecological, social and urban innovation project <a href="https://www.thebiopolis.com/purparis">“PurParis”</a>. She is very enthusiastic about the idea of democratizing science with interests in the links that can be built between science and society; But also very concerned about the environment and the issues this raises, her life mantra is engaging herself fully in the ecological and social transition of society.
