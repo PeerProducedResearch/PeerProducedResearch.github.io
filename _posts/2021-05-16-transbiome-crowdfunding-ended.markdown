@@ -12,3 +12,5 @@ Thanks to all of these contributions we will be able to fully implement our stud
 - shipped out 45 sampling kits so far 📤
 - received 23 samples back at our offices 📥
 - 13 of these samples arrived at the sequencing facility 🧬
+
+In the next days we will send out more samples, more sampling kits and also get started on preparing the crowdfunding contributor rewards!
