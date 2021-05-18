@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Personal science, community learning and the quantified self - An interview with Gary Wolf"
+title:  "Personal science, community learning and the quantified self - Interview with Gary Wolf"
 date:   2021-05-18 16:21:18 +0100
 categories: news
 ---
