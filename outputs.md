@@ -34,7 +34,9 @@ order: 3
 - *[Sci-Hub provides access to nearly all scholarly literature](https://elifesciences.org/articles/32822).* DS Himmelstein, AR Romero, JG Levernier, TA Munro, SR McLaughlin, **B Greshake Tzovaras**, Casey S Greene *ELife*
 
 ## Software & Materials
-We are in the process of creating additional non-software materials for workshops and teaching open science. Until then you can [find the software and materials that we are working on at GitHub](https://github.com/PeerProducedResearch/).
+- *[CRI Open Science Course materials (Wikiversity)](https://en.wikiversity.org/wiki/CRI_Open_Science_Course).* **E Senabre Hidalgo**, **B Greshake Tzovaras**, I Atal, A Lindner
+
+We are in the process of creating additional tools and non-software materials for workshops and teaching. Until then you can [find the software and materials that we are working on at GitHub](https://github.com/PeerProducedResearch/).
 
 ## Teaching
 Our team is involved in teaching a variety of courses at CRI across the different study programs and levels. Among others those included:
