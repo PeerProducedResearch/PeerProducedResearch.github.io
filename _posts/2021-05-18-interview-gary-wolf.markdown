@@ -4,7 +4,7 @@ title:  "Personal science, community learning and the quantified self - An inter
 date:   2021-05-18 16:21:18 +0100
 categories: news
 ---
-*By Enric Senabre and Morgane Opoix.*
+*By Enric Senabre Hidalgo and Morgane Opoix.*
 
 ***[Gary Wolf](https://en.wikipedia.org/wiki/Gary_Wolf_(journalist)), journalist, researcher and contributing editor at [Wired magazine](https://en.wikipedia.org/wiki/Wired_(magazine)) since its beginnings, is the co-founder of [Quantified Self](https://quantifiedself.com/), an international community of users and makers of self-tracking tools who share an interest in self-experimentation and “self-knowledge through numbers”. Gary is also one of the [board directors](https://quantifiedself.com/blog/why-ive-joined-the-board-of-open-humans/) of the [Open Humans Foundation](http://openhumansfoundation.org/), and active contributor of the [Open Humans self-research community](https://www.openhumans.org/self-research/). We interviewed Gary during a data collection process for a study on motivations, learnings and peer support in self-research communities (more info [here](https://peer-produced.science/Keating-Memorial-research/)), and since Gary gave permission to use his non-anonymized data (“I’m a journalist!”) we reproduce our conversation here, with minor edits.***
 
