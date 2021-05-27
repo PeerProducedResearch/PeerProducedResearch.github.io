@@ -10,6 +10,7 @@ order: 3
 ## Recent Publications
 
 ### 2021
+- *[Peer Production Practices: Design Strategies in Online Citizen Science Platforms](https://osf.io/preprints/socarxiv/rw58y/)*. **K Kloppenborg**, **M Ball**, **B Greshake Tzovaras** *SocArXiv preprint*
 - *[Galileo: Citizen-led Experimentation Using a Social Computing System](https://dl.acm.org/doi/abs/10.1145/3411764.3445668)*. V Pandey, T Koul, C Yang, D McDonald, **M Ball**, **B Greshake Tzovaras**, R Knight, S Klemmer *CHI '21: Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems*
 - *[Re-analysis of genetic risks for Chronic Fatigue Syndrome from 23andMe data finds few remain](https://www.frontiersin.org/articles/10.3389/fped.2021.590040/full).* FL Bedford, **B Greshake Tzovaras** *Frontiers in Pediatrics*
 - *[Quantified Flu: an individual-centered approach to gaining sickness-related insights from wearable data.](https://medrxiv.org/cgi/content/short/2021.03.10.21252242v1)* **B Greshake Tzovaras**, **E Senabre Hidalgo**, K Alexiou, L Baldy, **B Morane**, **I Bussod**, **M Fribourg**, K Wac, G Wolf, **M Ball** *medRxiv preprint*
