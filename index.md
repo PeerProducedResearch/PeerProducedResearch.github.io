@@ -4,7 +4,6 @@
 
 layout: page
 title: "Peer-Produced Research Lab"
-order: 0
 ---
 
 # Welcome to the *Peer-Produced Research* Lab
