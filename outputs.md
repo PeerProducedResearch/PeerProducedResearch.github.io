@@ -10,6 +10,7 @@ order: 3
 ## Recent Publications
 
 ### 2021
+- *[Empowering grassroots innovation to accelerate biomedical research](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001349)* **B Greshake Tzovaras**, M Rera, EH Wintermute, **K Kloppenborg**, J Ferry-Danini, G Aidelberg, R Aronoff, D Misevic *PLOS Biology* 
 - *[A survey of direct-to-consumer genotype data, and quality control tool (GenomePrep) for research](https://www.sciencedirect.com/science/article/pii/S2001037021002786)*. C Lu, **B Greshake Tzovaras**, J Gough *Computational and Structural Biotechnology Journal*
 - *[Peer Production Practices: Design Strategies in Online Citizen Science Platforms](https://osf.io/preprints/socarxiv/rw58y/)*. **K Kloppenborg**, **M Ball**, **B Greshake Tzovaras** *SocArXiv preprint*
 - *[A Framework for Assessing the Commons Qualities of Citizen Science: Comparative Analysis of Five Digital Platforms
