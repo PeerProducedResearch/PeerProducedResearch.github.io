@@ -9,9 +9,7 @@ order: 4
 Our research focus is around citizen science, peer production and open science itself. In our own work we are putting those principles into practice as well. As a result we are more than happy to have people join us in our projects and contribute in a variety of ways. Some of the main ways to get involved with us are listed on this page.
 
 ## Join our reading club
-We are running a weekly reading club in which we discuss foundational literature, recent academic publications and non-traditional materials (such as blog posts) that relate to the understanding of collaborative processes in citizen & community science. The reading club is open to everyone and takes place every Tuesday at 2pm Paris time (8am Eastern).
-
-[Click here to find what reading is scheduled for next next weeks and more details on how to join](https://docs.google.com/document/d/1p9FfRbROK7sTk5tUuW7E4q9pTShe3EhmPBwrx6HG07A/edit#).
+We are running a weekly reading club in which we discuss foundational literature, recent academic publications and non-traditional materials (such as blog posts) that relate to the understanding of collaborative processes in citizen & community science. The reading club is open to everyone and takes place every Tuesday at 2pm Paris time (8am Eastern). [Click here to find what reading is scheduled for next next weeks and more details on how to join](https://docs.google.com/document/d/1p9FfRbROK7sTk5tUuW7E4q9pTShe3EhmPBwrx6HG07A/edit#).
 
 ## Collaborate with us
 We have a number of ongoing collaborations with other teams, both locally at CRI and around the globe and a deep experience with remote and distributed collaborations. Our current and past collaborations include a broad set of topics, including personal genomics, citizen science, data governance, peer-production, open access, personal science/self-research, digital platform development, bioethics and many more. Do you have a topic where our research approaches and expertise might be useful? Or are you interested in doing your own co-created, participant-led research project and are looking for help? [Contact us](/contact)!
