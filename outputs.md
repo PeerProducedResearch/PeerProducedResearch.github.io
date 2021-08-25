@@ -10,7 +10,8 @@ order: 3
 ## Recent Publications
 
 ### 2021
-- *[Empowering grassroots innovation to accelerate biomedical research](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001349)* **B Greshake Tzovaras**, M Rera, EH Wintermute, **K Kloppenborg**, J Ferry-Danini, G Aidelberg, R Aronoff, D Misevic *PLOS Biology* 
+- *[Contours of citizen science: a vignette study](https://royalsocietypublishing.org/doi/10.1098/rsos.202108).* M Haklay, D Fraisl, **B Greshake Tzovaras**, S Hecker, M Gold, G Hager, L Ceccaroni, B Kieslinger, U Wehn, S Woods, C Nold, B Balazs, M Mazzonetto, S Rüfenacht, L Shanley, K Wagenknecht, A Motion, A Sforzi, D Riemenschneider, D Dörler, F Heigl, T Schaefer, A Lindner, M Weißpflug, M Mačiuliene, K Vohland *Royal Society Open Science*
+- *[Empowering grassroots innovation to accelerate biomedical research](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001349)* **B Greshake Tzovaras**, M Rera, EH Wintermute, **K Kloppenborg**, J Ferry-Danini, G Aidelberg, R Aronoff, D Misevic *PLOS Biology*
 - *[A survey of direct-to-consumer genotype data, and quality control tool (GenomePrep) for research](https://www.sciencedirect.com/science/article/pii/S2001037021002786)*. C Lu, **B Greshake Tzovaras**, J Gough *Computational and Structural Biotechnology Journal*
 - *[Peer Production Practices: Design Strategies in Online Citizen Science Platforms](https://osf.io/preprints/socarxiv/rw58y/)*. **K Kloppenborg**, **M Ball**, **B Greshake Tzovaras** *SocArXiv preprint*
 - *[A Framework for Assessing the Commons Qualities of Citizen Science: Comparative Analysis of Five Digital Platforms
@@ -23,7 +24,6 @@ order: 3
 - *[Citizen Science, Health, and Environmental Justice.](https://link.springer.com/chapter/10.1007/978-3-030-58278-4_12)* L Ceccaroni, SM Woods, J Sprinks, S Wilson, EM Faustman, A Bonn, **B Greshake Tzovaras**, L Subirats, AH Kimura. *In: [The Science of Citizen Science](https://link.springer.com/book/10.1007/978-3-030-58278-4), Springer*
 
 ### 2020
-- *[Contours of citizen science: a vignette study](https://osf.io/preprints/socarxiv/6u2ky/).* M Haklay, D Fraisl, **B Greshake Tzovaras**, S Hecker, M Gold, G Hager, L Ceccaroni, B Kieslinger, U Wehn, S Woods, C Nold, B Balazs, M Mazzonetto, S Rüfenacht, L Shanley, K Wagenknecht, A Motion, A Sforzi, D Riemenschneider, D Dörler, F Heigl, T Schaefer, A Lindner, M Weißpflug, M Mačiuliene, K Vohland *SocArXiv preprint*
 - *[Introducing Massively Open Online Paper (MOOPs)](https://kula.uvic.ca/articles/10.5334/kula.63/).* JP Tennant N Bielczyk, **B Greshake Tzovaras**, P Masuzzo, T Steiner *KULA: Knowledge creation, dissemination, and preservation studies*
 - *[What Is in Umbilicaria pustulata? A Metagenomic Approach to Reconstruct the Holo-Genome of a Lichen](https://academic.oup.com/gbe/article/12/4/309/5803651).* **B Greshake Tzovaras**, FHID Segers, A Bicker, F Dal Grande, J Otte, SY Anvar, T Hankeln, I Schmitt, I Ebersberger *Genome Biology and Evolution*
 - *[Emerging health data platforms: From individual control to collective data governance](https://www.cambridge.org/core/journals/data-and-policy/article/emerging-health-data-platforms-from-individual-control-to-collective-data-governance/C2FABA49744B674D157DC5E09E15DDCD).* T Kariotis, **M Price Ball**, **B Greshake Tzovaras**, S Dennis, T Sahama, C Johnston, H Almond, A Borda *Data & Policy*
