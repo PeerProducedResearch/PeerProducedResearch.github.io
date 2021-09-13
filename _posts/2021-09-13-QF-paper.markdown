@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "New publication: Quantified Flu"
+date:   2021-04-07 00:45:18 +0100
+categories: preprints
+---
+Our paper describing *Quantified Flu* is [now out in a peer-reviewed version in the _Journal of Medical Internet Research_](https://www.jmir.org/2021/9/e28116/). Our main finding is that a community-driven open source approach can not only rapidly create a working tool to support individuals in learning from their own data, but also leads to a tool that's particularly well-adapted to community needs – leading to a high level of continued usage that is untypical for mobile health applications.
