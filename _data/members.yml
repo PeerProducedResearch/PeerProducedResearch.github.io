@@ -134,3 +134,14 @@
       type: email
       url: morgane.opoix@cri-paris.org
   description: Morgane is a CRI undergraduate student in the “Licence Frontière du Vivant” bachelor program. She is currently helping to apply qualitative methods to personal science and citizen science in our Peer-Produced Research Lab. She worked in 2020 with Prof. Muki Haklay on citizen science in the context of the “Eu-CitizenScience” project and separately in 2019 on the ecological, social and urban innovation project <a href="https://www.thebiopolis.com/purparis">“PurParis”</a>. She is very enthusiastic about the idea of democratizing science with interests in the links that can be built between science and society; But also very concerned about the environment and the issues this raises, her life mantra is engaging herself fully in the ecological and social transition of society.
+
+- name: Clément Barbier
+  photo:
+    url: /assets/images/clement.jpg
+    alt: A portrait of Clement
+  links:
+    -
+      title: Email
+      type: email
+      url: clement.barbier@cri-paris.org
+  description: Clément is an undergraduate student in the “Licence Frontière du Vivant” bachelor program of Université de Paris. During the beginning of 2021, he started a project along with 2 of his classmates in the Peer-Produced Research Lab. This project was about collecting data from Quantified Self projects videos in order to make a descriptive analysis of this movement. He came back at the end of 2021 as an intern to pick up and finish this project. He is interested in interdisciplinarity in sciences, especially the links that can be made between ecology and society.
