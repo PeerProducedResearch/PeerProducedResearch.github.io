@@ -9,6 +9,9 @@ order: 3
 
 ## Recent Publications
 
+### 2022
+- - *[Co-Immune: a case study on open innovation for vaccination hesitancy and access](https://jopm.jmir.org/2022/1/e32125/)*. CM Masselot, **B Greshake Tzovaras**, CLB Graham, G Finnegan, R Jeyaram, I Vitali, TE Landrain, M Santolini *Journal of Participatory Medicine*
+
 ### 2021
 - *[Detection of Spatiotemporal Clusters of COVID-19–Associated Symptoms and Prevention Using a Participatory Surveillance App: Protocol for the @choum Study ](https://www.researchprotocols.org/2021/10/e30444)* D De Ridder, AJ Loizeau, JS Sandoval, F Ehrler, M Perrier, A Ritch, G Violot, M Santolini, **B Greshake Tzovaras**, S Stringhini, L Kaiser, JF Pradeau, S Joost, I Guessous *JMIR Research Protocols*
 - *[Shared motivations, goals and values in the practice of personal science - A community perspective on self-tracking for empirical knowledge](https://osf.io/preprints/socarxiv/78yfm/)* **E Senabre Hidalgo**, **M Ball**, **M Opoix**, **B Greshake Tzovaras** *SocArXiv preprint*
@@ -21,7 +24,6 @@ order: 3
 ](https://osf.io/preprints/socarxiv/pv78g/)*. M Fuster Morell, A Cigarini, **E Senabre Hidalgo** *SocArXiv preprint*
 - *[Galileo: Citizen-led Experimentation Using a Social Computing System](https://dl.acm.org/doi/abs/10.1145/3411764.3445668)*. V Pandey, T Koul, C Yang, D McDonald, **M Ball**, **B Greshake Tzovaras**, R Knight, S Klemmer *CHI '21: Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems*
 - *[Re-analysis of genetic risks for Chronic Fatigue Syndrome from 23andMe data finds few remain](https://www.frontiersin.org/articles/10.3389/fped.2021.590040/full).* FL Bedford, **B Greshake Tzovaras** *Frontiers in Pediatrics*
-- *[Co-Immune: a case study on open innovation for vaccination hesitancy and access](https://www.medrxiv.org/content/10.1101/2021.03.29.20248781v1.full)*. CM Masselot, **B Greshake Tzovaras**, CLB Graham, G Finnegan, R Jeyaram, I Vitali, TE Landrain, M Santolini *medRxiv preprint*
 - *[Participation and Co-creation in Citizen Science.](https://link.springer.com/chapter/10.1007/978-3-030-58278-4_11)* **E Senabre Hidalgo**, J Perelló, F Becker, I Bonhoure, M Legris, A Cigarini. *In: [The Science of Citizen Science](https://link.springer.com/book/10.1007/978-3-030-58278-4), Springer*
 - *[Citizen Science, Health, and Environmental Justice.](https://link.springer.com/chapter/10.1007/978-3-030-58278-4_12)* L Ceccaroni, SM Woods, J Sprinks, S Wilson, EM Faustman, A Bonn, **B Greshake Tzovaras**, L Subirats, AH Kimura. *In: [The Science of Citizen Science](https://link.springer.com/book/10.1007/978-3-030-58278-4), Springer*
 
