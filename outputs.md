@@ -10,8 +10,12 @@ order: 3
 ## Recent Publications
 
 ### 2022
+<<<<<<< HEAD
 - *[Shared motivations, goals and values in the practice of personal science - A community perspective on self-tracking for empirical knowledge](https://www.nature.com/articles/s41599-022-01199-0)* **E Senabre Hidalgo**, **M Ball**, **M Opoix**, **B Greshake Tzovaras** *Humanities and Social Sciences Communications*
 - *[Co-Immune: a case study on open innovation for vaccination hesitancy and access](https://jopm.jmir.org/2022/1/e32125/)*. CM Masselot, **B Greshake Tzovaras**, CLB Graham, G Finnegan, R Jeyaram, I Vitali, TE Landrain, M Santolini *JMIR Journal of Participatory Medicine*
+=======
+- *[Co-Immune: a case study on open innovation for vaccination hesitancy and access](https://jopm.jmir.org/2022/1/e32125/)*. CM Masselot, **B Greshake Tzovaras**, CLB Graham, G Finnegan, R Jeyaram, I Vitali, TE Landrain, M Santolini *Journal of Participatory Medicine*
+>>>>>>> e21d5259f41d45ad090c39fb89025d9a9e2d7c60
 
 ### 2021
 - *[Detection of Spatiotemporal Clusters of COVID-19–Associated Symptoms and Prevention Using a Participatory Surveillance App: Protocol for the @choum Study ](https://www.researchprotocols.org/2021/10/e30444)* D De Ridder, AJ Loizeau, JS Sandoval, F Ehrler, M Perrier, A Ritch, G Violot, M Santolini, **B Greshake Tzovaras**, S Stringhini, L Kaiser, JF Pradeau, S Joost, I Guessous *JMIR Research Protocols*
@@ -28,7 +32,7 @@ order: 3
 - *[Citizen Science, Health, and Environmental Justice.](https://link.springer.com/chapter/10.1007/978-3-030-58278-4_12)* L Ceccaroni, SM Woods, J Sprinks, S Wilson, EM Faustman, A Bonn, **B Greshake Tzovaras**, L Subirats, AH Kimura. *In: [The Science of Citizen Science](https://link.springer.com/book/10.1007/978-3-030-58278-4), Springer*
 
 ### 2020
-- *[Introducing Massively Open Online Paper (MOOPs)](https://kula.uvic.ca/articles/10.5334/kula.63/).* JP Tennant N Bielczyk, **B Greshake Tzovaras**, P Masuzzo, T Steiner *KULA: Knowledge creation, dissemination, and preservation studies*
+- *[Introducing Massively Open Online Paper (MOOPs)](https://kula.uvic.ca/index.php/kula/article/view/4).* JP Tennant N Bielczyk, **B Greshake Tzovaras**, P Masuzzo, T Steiner *KULA: Knowledge creation, dissemination, and preservation studies*
 - *[What Is in Umbilicaria pustulata? A Metagenomic Approach to Reconstruct the Holo-Genome of a Lichen](https://academic.oup.com/gbe/article/12/4/309/5803651).* **B Greshake Tzovaras**, FHID Segers, A Bicker, F Dal Grande, J Otte, SY Anvar, T Hankeln, I Schmitt, I Ebersberger *Genome Biology and Evolution*
 - *[Emerging health data platforms: From individual control to collective data governance](https://www.cambridge.org/core/journals/data-and-policy/article/emerging-health-data-platforms-from-individual-control-to-collective-data-governance/C2FABA49744B674D157DC5E09E15DDCD).* T Kariotis, **M Price Ball**, **B Greshake Tzovaras**, S Dennis, T Sahama, C Johnston, H Almond, A Borda *Data & Policy*
 - *[Phenotype prediction from genome-wide genotyping data: a crowdsourcing experiment](https://www.biorxiv.org/content/10.1101/2020.08.25.265900v1.abstract).* O Naret, D Baranger, **B Greshake Tzovaras**, SP Mohanty, M Salathe, J Fellay *BioRxiv preprint*
