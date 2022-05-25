@@ -12,6 +12,9 @@ order: 3
 ### 2022
 - *[Shared motivations, goals and values in the practice of personal science - A community perspective on self-tracking for empirical knowledge](https://www.nature.com/articles/s41599-022-01199-0)* **E Senabre Hidalgo**, **M Ball**, **M Opoix**, **B Greshake Tzovaras** *Humanities and Social Sciences Communications*
 - *[Co-Immune: a case study on open innovation for vaccination hesitancy and access](https://jopm.jmir.org/2022/1/e32125/)*. CM Masselot, **B Greshake Tzovaras**, CLB Graham, G Finnegan, R Jeyaram, I Vitali, TE Landrain, M Santolini *JMIR Journal of Participatory Medicine*
+- *[Community review: a robust and scalable selection system for resource allocation within open science and innovation communities](https://www.biorxiv.org/content/10.1101/2022.04.25.489391v2)* CLB Graham, TE Landrain, A Vjestica, M Masselot, E Lawton, L Blondel, L Haenel, **B Greshake Tzovaras**, M Santolini *bioRxiv preprint*
+- *[iNaturalist citizen science community during City Nature Challenge: new computational approach for analysis of user activity](https://arxiv.org/abs/2112.02693)* L Tupikina, F Schlosser, V Voskresenskii, **K Kloppenborg**, F Lopze, A Mariz, A Mogilevskaja, M Haklay, **B Greshake Tzovaras** arXiv preprint
+-
 
 ### 2021
 - *[Detection of Spatiotemporal Clusters of COVID-19–Associated Symptoms and Prevention Using a Participatory Surveillance App: Protocol for the @choum Study ](https://www.researchprotocols.org/2021/10/e30444)* D De Ridder, AJ Loizeau, JS Sandoval, F Ehrler, M Perrier, A Ritch, G Violot, M Santolini, **B Greshake Tzovaras**, S Stringhini, L Kaiser, JF Pradeau, S Joost, I Guessous *JMIR Research Protocols*
