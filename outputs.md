@@ -9,6 +9,9 @@ order: 3
 
 ## Recent Publications
 
+### 2023
+- *[Hypothesis-free phenotype prediction within a genetics-first framework](https://www.nature.com/articles/s41467-023-36634-6)* C Lu, J Zaucha, R Gam, H Fang, B Smithers, ME Oates, M Bernabe-Rubio, J Williams, N Zelenka, AP Pandurangan, H Tandon, H Shihab, R Kalaivani, M Sung, AJ Sadar, **B Greshake Tzovaras**, D Danovi, J Gough *Nature communications*
+
 ### 2022
 - *[Shared motivations, goals and values in the practice of personal science - A community perspective on self-tracking for empirical knowledge](https://www.nature.com/articles/s41599-022-01199-0)* **E Senabre Hidalgo**, **M Ball**, **M Opoix**, **B Greshake Tzovaras** *Humanities and Social Sciences Communications*
 - *[Co-Immune: a case study on open innovation for vaccination hesitancy and access](https://jopm.jmir.org/2022/1/e32125/)*. CM Masselot, **B Greshake Tzovaras**, CLB Graham, G Finnegan, R Jeyaram, I Vitali, TE Landrain, M Santolini *JMIR Journal of Participatory Medicine*
