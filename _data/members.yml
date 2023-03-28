@@ -6,7 +6,7 @@
     -
       title: Email
       type: email
-      url: bastian.greshake-tzovaras@cri-paris.org
+      url: bgreshaketzovaras@turing.ac.uk
     -
       title: Twitter
       type: web
@@ -19,7 +19,7 @@
       title: Google Scholar
       type: web
       url: https://scholar.google.com/citations?user=xmtDOnQAAAAJ&hl=en
-  description: Bastian is a long-term fellow at the CRI and started the Peer-Produced Research Lab. He started his career as a biologist and bioinformatician before his interests in open science led him to do research on co-creation in community/citizen science. In 2011, he co-founded openSNP – an open, crowdsourced repository for personal genomics data which has become one of the largest of its kind. Since 2017 he is also the Director of Research for the Open Humans Foundation, which runs a web platform to empower individuals and communities to access and understand their personal data and help them do and share things with it. Bastian is particularly interested in how peer-production ideals can be implemented to support scaling up Quantified Self/Personal Science projects to take them from the n=1 to collective endeavours.
+  description: Bastian is a senior researcher for participatory citizen science at The Alan Turing Institute in London and was a long-term fellow within Inserm U1284 when he started the Peer-Produced Research Lab. He started his career as a biologist and bioinformatician before his interests in open science led him to do research on co-creation in community/citizen science. In 2011, he co-founded openSNP – an open, crowdsourced repository for personal genomics data which has become one of the largest of its kind. Since 2017 he is also the Director of Research for the Open Humans Foundation, which runs a web platform to empower individuals and communities to access and understand their personal data and help them do and share things with it. Bastian is particularly interested in how peer-production ideals can be implemented to support scaling up Quantified Self/Personal Science projects to take them from the n=1 to collective endeavours.
 
 - name: Enric Senabre Hidalgo
   photo:
@@ -42,7 +42,7 @@
       title: Google Scholar
       type: web
       url: https://scholar.google.com/citations?user=8x9QLzUAAAAJ&hl=en
-  description: Enric is a postdoctoral researcher at the Peer-Produced Research Lab. As a member of the Dimmons.net research group, he obtained his PhD in Sociology on the Information and Knowledge Society at the Internet Interdisciplinary Institute, from Universitat Oberta de Catalunya (UOC), under the direction of Dr. Mayo Fuster Morell. He has also developed his research at the Centre for Digital Humanities of the Austrian Academy of Sciences. Enric is a member of the Platoniq collective and co-founder of the Goteo.org platform for civic crowdfunding. He is currently interested in how to apply co-creation and qualitative methods to personal science and citizen science from a transdisciplinary perspective.
+  description: Enric is a postdoctoral fellow at the Universitat Oberta de Catalunya. He joined the Peer-Produced Research Lab when he was a postdoctoral researcher in Inserm U1284. As a member of the Dimmons.net research group, he obtained his PhD in Sociology on the Information and Knowledge Society at the Internet Interdisciplinary Institute, from Universitat Oberta de Catalunya (UOC), under the direction of Dr. Mayo Fuster Morell. He has also developed his research at the Centre for Digital Humanities of the Austrian Academy of Sciences. Enric is a member of the Platoniq collective and co-founder of the Goteo.org platform for civic crowdfunding. He is currently interested in how to apply co-creation and qualitative methods to personal science and citizen science from a transdisciplinary perspective.
 
 - name: Mad Ball
   photo:
