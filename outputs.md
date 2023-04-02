@@ -10,13 +10,15 @@ order: 3
 ## Recent Publications
 
 ### 2023
+- *[“One button in my pocket instead of the smartphone”: A methodological assemblage connecting self-research and autoethnography in a digital disengagement study](https://journals.sagepub.com/doi/10.1177/20597991231161093)* **E Senabre Hidalgo**, **B Greshake Tzovaras** *Methodological Innovations*
 - *[Hypothesis-free phenotype prediction within a genetics-first framework](https://www.nature.com/articles/s41467-023-36634-6)* C Lu, J Zaucha, R Gam, H Fang, B Smithers, ME Oates, M Bernabe-Rubio, J Williams, N Zelenka, AP Pandurangan, H Tandon, H Shihab, R Kalaivani, M Sung, AJ Sadar, **B Greshake Tzovaras**, D Danovi, J Gough *Nature communications*
 
 ### 2022
 - *[Shared motivations, goals and values in the practice of personal science - A community perspective on self-tracking for empirical knowledge](https://www.nature.com/articles/s41599-022-01199-0)* **E Senabre Hidalgo**, **M Ball**, **M Opoix**, **B Greshake Tzovaras** *Humanities and Social Sciences Communications*
 - *[Co-Immune: a case study on open innovation for vaccination hesitancy and access](https://jopm.jmir.org/2022/1/e32125/)*. CM Masselot, **B Greshake Tzovaras**, CLB Graham, G Finnegan, R Jeyaram, I Vitali, TE Landrain, M Santolini *JMIR Journal of Participatory Medicine*
 - *[Community review: a robust and scalable selection system for resource allocation within open science and innovation communities](https://www.biorxiv.org/content/10.1101/2022.04.25.489391v2)* CLB Graham, TE Landrain, A Vjestica, M Masselot, E Lawton, L Blondel, L Haenel, **B Greshake Tzovaras**, M Santolini *bioRxiv preprint*
-- *[iNaturalist citizen science community during City Nature Challenge: new computational approach for analysis of user activity](https://arxiv.org/abs/2112.02693)* L Tupikina, F Schlosser, V Voskresenskii, **K Kloppenborg**, F Lopze, A Mariz, A Mogilevskaja, M Haklay, **B Greshake Tzovaras** arXiv preprint
+- *[iNaturalist citizen science community during City Nature Challenge: new computational approach for analysis of user activity](https://arxiv.org/abs/2112.02693)* L Tupikina, F Schlosser, V Voskresenskii, **K Kloppenborg**, F Lopze, A Mariz, A Mogilevskaja, M Haklay, **B Greshake Tzovaras** *arXiv preprint*
+- *[An epistemology for democratic citizen science](https://osf.io/j62sb/download)* J Jaeger, C Masselot, **B Greshake Tzovaras**, **E Senabre Hidalgo**, M Haklay, M Santolini. *OSF Preprint*
 
 ### 2021
 - *[Detection of Spatiotemporal Clusters of COVID-19–Associated Symptoms and Prevention Using a Participatory Surveillance App: Protocol for the @choum Study ](https://www.researchprotocols.org/2021/10/e30444)* D De Ridder, AJ Loizeau, JS Sandoval, F Ehrler, M Perrier, A Ritch, G Violot, M Santolini, **B Greshake Tzovaras**, S Stringhini, L Kaiser, JF Pradeau, S Joost, I Guessous *JMIR Research Protocols*
