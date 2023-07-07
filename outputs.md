@@ -12,6 +12,7 @@ order: 3
 ### 2023
 - *[“One button in my pocket instead of the smartphone”: A methodological assemblage connecting self-research and autoethnography in a digital disengagement study](https://journals.sagepub.com/doi/10.1177/20597991231161093)* **E Senabre Hidalgo**, **B Greshake Tzovaras** *Methodological Innovations*
 - *[Hypothesis-free phenotype prediction within a genetics-first framework](https://www.nature.com/articles/s41467-023-36634-6)* C Lu, J Zaucha, R Gam, H Fang, B Smithers, ME Oates, M Bernabe-Rubio, J Williams, N Zelenka, AP Pandurangan, H Tandon, H Shihab, R Kalaivani, M Sung, AJ Sadar, **B Greshake Tzovaras**, D Danovi, J Gough *Nature communications*
+- *[The transdisciplinary potential of citizen science](https://www.elgaronline.com/edcollchap/book/9781802207835/book-part-9781802207835-21.xml)* A Albert, M Haklay, F Moustard, S Hecker, **B Greshake Tzovaras**, A Linder. In *Handbook of Transdisciplinarity: Global Perspectives*
 
 ### 2022
 - *[Shared motivations, goals and values in the practice of personal science - A community perspective on self-tracking for empirical knowledge](https://www.nature.com/articles/s41599-022-01199-0)* **E Senabre Hidalgo**, **M Ball**, **M Opoix**, **B Greshake Tzovaras** *Humanities and Social Sciences Communications*
@@ -52,6 +53,7 @@ order: 3
 
 ## Software & Materials
 - *[CRI Open Science Course materials (Wikiversity)](https://en.wikiversity.org/wiki/CRI_Open_Science_Course).* **E Senabre Hidalgo**, **B Greshake Tzovaras**, I Atal, A Lindner
+- [*Cardsort*](https://github.com/katoss/cardsort), python package to analyse card sorting data. **K Kloppenborg**
 
 We are in the process of creating additional tools and non-software materials for workshops and teaching. Until then you can [find the software and materials that we are working on at GitHub](https://github.com/PeerProducedResearch/).
 
