@@ -9,6 +9,9 @@ order: 3
 
 ## Recent Publications
 
+### 2024
+- *[Co-Designing a wiki-based community knowledge management system for personal science](https://arxiv.org/abs/2402.09799)* **K Kloppenborg**, **M Ball**, S Jonas, GI Wolf, **B Greshake Tzovaras**. *arXiv preprint*
+
 ### 2023
 - *[“One button in my pocket instead of the smartphone”: A methodological assemblage connecting self-research and autoethnography in a digital disengagement study](https://journals.sagepub.com/doi/10.1177/20597991231161093)* **E Senabre Hidalgo**, **B Greshake Tzovaras** *Methodological Innovations*
 - *[Hypothesis-free phenotype prediction within a genetics-first framework](https://www.nature.com/articles/s41467-023-36634-6)* C Lu, J Zaucha, R Gam, H Fang, B Smithers, ME Oates, M Bernabe-Rubio, J Williams, N Zelenka, AP Pandurangan, H Tandon, H Shihab, R Kalaivani, M Sung, AJ Sadar, **B Greshake Tzovaras**, D Danovi, J Gough *Nature communications*
