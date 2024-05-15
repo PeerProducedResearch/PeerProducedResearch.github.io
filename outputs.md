@@ -10,6 +10,7 @@ order: 3
 ## Recent Publications
 
 ### 2024
+- *[How to co-create content moderation policies: The case of the AutSPACEs project](https://doi.org/10.1017/dap.2024.21)* G Aitkenhead, S Fantoni, J Scott, S Batchelor, H Duncan, D Llewellyn-Jones, C Mole, O Smith, M Stoffel, R Taylor, K Whitaker, **B Greshake Tzovaras**. *Data & Policy* 
 - *[Co-Designing a wiki-based community knowledge management system for personal science](https://arxiv.org/abs/2402.09799)* **K Kloppenborg**, **M Ball**, S Jonas, GI Wolf, **B Greshake Tzovaras**. *arXiv preprint*
 
 ### 2023
@@ -18,7 +19,6 @@ order: 3
 - *[An epistemology for democratic citizen science](https://royalsocietypublishing.org/doi/full/10.1098/rsos.231100)* J Jaeger, C Masselot, **B Greshake Tzovaras**, **E Senabre Hidalgo**, M Haklay, M Santolini. *Royal Society Open Science*
 - *[The transdisciplinary potential of citizen science](https://www.elgaronline.com/edcollchap/book/9781802207835/book-part-9781802207835-21.xml)* A Albert, M Haklay, F Moustard, S Hecker, **B Greshake Tzovaras**, A Linder. In *Handbook of Transdisciplinarity: Global Perspectives*
 - *[Citizen Science for Health: an international survey on its characteristics and enabling factors](https://osf.io/7tdx5/)* **B Greshake Tzovaras**, A Albert, J van Laer, S Wildevuur, M de Groot, L den Broeder, I Bonhoure, J Magalhaes, S Mas Assens, E Garcia Torrens, B Imre, E Covernton. *SocArXiv preprint*
-- *[How to co-create content moderation policies: The case of the AutSPACEs project](https://osf.io/preprints/socarxiv/c2xe7)* G Aitkenhead, S Fantoni, J Scott, S Batchelor, H Duncan, D Llewellyn-Jones, C Mole, O Smith, M Stoffel, R Taylor, K Whitaker, **B Greshake Tzovaras**. *SocArXiv preprint* 
 
 ### 2022
 - *[Shared motivations, goals and values in the practice of personal science - A community perspective on self-tracking for empirical knowledge](https://www.nature.com/articles/s41599-022-01199-0)* **E Senabre Hidalgo**, **M Ball**, **M Opoix**, **B Greshake Tzovaras** *Humanities and Social Sciences Communications*
