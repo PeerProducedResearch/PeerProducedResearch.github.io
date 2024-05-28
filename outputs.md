@@ -12,6 +12,12 @@ order: 3
 ### 2024
 - *[How to co-create content moderation policies: The case of the AutSPACEs project](https://doi.org/10.1017/dap.2024.21)* G Aitkenhead, S Fantoni, J Scott, S Batchelor, H Duncan, D Llewellyn-Jones, C Mole, O Smith, M Stoffel, R Taylor, K Whitaker, **B Greshake Tzovaras**. *Data & Policy* 
 - *[Co-Designing a wiki-based community knowledge management system for personal science](https://arxiv.org/abs/2402.09799)* **K Kloppenborg**, **M Ball**, S Jonas, GI Wolf, **B Greshake Tzovaras**. *arXiv preprint*
+- Sections in the *[Open Science Meets Citizen Science](https://doi.org/10.25815/2tj5-0289)* section of the _Citizen Science for Research Libraries Guide_:
+    - _[Introduction](https://doi.org/10.25815/2bat-2y32)_ - **B Greshake Tzovaras**
+    - _[Quickstart Guide](https://doi.org/10.25815/j2nt-s512)_ - **B Greshake Tzovaras**
+    - _[Implementing Open Science Practices into a Citizen Science Project](https://doi.org/10.25815/qb6h-9915)_ - **B Greshake Tzovaras**
+    - _[Citizen Science using Personal Data](https://doi.org/10.25815/3q4m-6t98)_ - **B Greshake Tzovaras**
+    
 
 ### 2023
 - *[“One button in my pocket instead of the smartphone”: A methodological assemblage connecting self-research and autoethnography in a digital disengagement study](https://journals.sagepub.com/doi/10.1177/20597991231161093)* **E Senabre Hidalgo**, **B Greshake Tzovaras** *Methodological Innovations*
@@ -57,6 +63,7 @@ order: 3
 - *[Sci-Hub provides access to nearly all scholarly literature](https://elifesciences.org/articles/32822).* DS Himmelstein, AR Romero, JG Levernier, TA Munro, SR McLaughlin, **B Greshake Tzovaras**, Casey S Greene *ELife*
 
 ## Software & Materials
+- *[Open Science Meets Citizen Science](https://doi.org/10.25815/2tj5-0289)* In: The _Citizen Science for Research Libraries Guide_. Edited by: **B Greshake Tzovaras** 
 - *[CRI Open Science Course materials (Wikiversity)](https://en.wikiversity.org/wiki/CRI_Open_Science_Course).* **E Senabre Hidalgo**, **B Greshake Tzovaras**, I Atal, A Lindner
 - [*Cardsort*](https://github.com/katoss/cardsort), python package to analyse card sorting data. **K Kloppenborg**
 
